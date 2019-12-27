@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/HYC192/mall/raw/master/HSHMall.ipa</string>
+		<string>https://github.com/HYC192/mall/raw/master/HSHMall-AppStore.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://github.com/HYC192/mall/raw/master/image57x57.png</string>
 		<key>fullSizeImageURL</key>
