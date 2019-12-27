@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HSHMall-AppStore.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9183EE2BA06E2B196020C1D0FFBAB16CDFF68ECC</string>
+				<key>dateExpires</key>
+				<string>2021/5/14</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>82572T4UHV.com.hsh.mall</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>82572T4UHV</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>华奢汇商城.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>365c953d-5564-4511-9481-94d20c2b405a</string>
+				<key>name</key>
+				<string>hshmaill</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>82572T4UHV</string>
+				<key>name</key>
+				<string>Changsha Jixin Mdt InfoTech Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
